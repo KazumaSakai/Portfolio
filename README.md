@@ -2,7 +2,7 @@
 * 企業様向け、ポートフォリオ  
   
 # 開発したプロジェクト一覧
-## * [ShoppingSite](https://github.com/KazumaSakai/ShoppingSite "ShoppingSite")  
+## * ShoppingSite [Github](https://github.com/KazumaSakai/ShoppingSite "ShoppingSite")  
 ### 説明  
 * Java,Struts2を使用して作成した、ECサイト  
   
