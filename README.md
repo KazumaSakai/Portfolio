@@ -1,13 +1,8 @@
-# リポジトリの目的  
-* 企業様向け、ポートフォリオ  
+## リポジトリの目的  
+- 企業様向け、ポートフォリオ  
   
-# 開発したプロジェクト一覧
-## * ShoppingSite [Github](https://github.com/KazumaSakai/ShoppingSite "ShoppingSite")  
-### 説明  
-* Java,Struts2を使用して作成した、ECサイト  
-  
-### 反省点  
-* 反省点  
-
-### 得たこと
-* 得たこと
+## 開発したプロジェクト
+| プロジェクト名 | Github                                                              | 概要                                              |
+|:--------------|:--------------------------------------------------------------------|:-------------------------------------------------|
+| ShoppingSite  | [Github](https://github.com/KazumaSakai/ShoppingSite "ShoppingSite")| 個人開発 様々な商品を販売するECサイト               |
+| TeamEC_Yellow | [Github](https://github.com/KazumaSakai/TeamEC "TeamEC_Yellow")     | チーム開発 CDを販売するECサイト                     |
